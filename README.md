@@ -1,2 +1,2 @@
-codenot.github.com
+codenot.github.io
 ==================
